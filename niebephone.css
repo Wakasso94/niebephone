@@ -1,0 +1,16 @@
+.flex_class{
+    position: absolute!important;
+    
+    left: 60%;
+}
+.slid{
+    height: 22rem!important;
+    border: rgb(255, 255, 255) solid 2px;overflow: hidden;
+}
+.votre_phone{
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(img/19917.jpg)center/cover no-repeat fixed;
+}
+.p_contact{
+    position: relative;
+    bottom: 10rem;
+}
